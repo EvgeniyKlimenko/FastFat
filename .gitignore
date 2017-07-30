@@ -1,0 +1,9 @@
+/Win32/
+/x64/
+*.aps
+*.opensdf
+*.sdf
+*.suo
+*.filters
+*.user
+*.opendb
